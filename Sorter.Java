@@ -44,7 +44,12 @@ public class Sorter{
 			arr[i] = temp;
 		}
 	
-	
+	static void sort(int arr[])
+	{
+		insertionSort(arr)
+		
+	}
+
 
 	
 }
