@@ -32,7 +32,12 @@ public class Sorter{
 	
 
 	
-	
+		static void sort(int arr[]) {
+		
+		selectionSort(arr);
+		
+	}
+
 	
 	
 	
